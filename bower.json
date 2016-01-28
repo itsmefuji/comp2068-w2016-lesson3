@@ -1,0 +1,19 @@
+{
+  "name": "comp2068-w2016-lesson3",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "itsmefuji <yujif.gc@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
